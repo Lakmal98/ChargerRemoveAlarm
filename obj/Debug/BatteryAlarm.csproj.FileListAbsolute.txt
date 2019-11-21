@@ -1,0 +1,13 @@
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\bin\Debug\BatteryAlarm.exe.config
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\bin\Debug\BatteryAlarm.exe
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\bin\Debug\BatteryAlarm.pdb
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.csprojAssemblyReference.cache
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.Properties.Resources.resources
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.csproj.GenerateResource.cache
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.csproj.CoreCompileInputs.cache
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.exe
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.pdb
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\bin\Debug\si-LK\BatteryAlarm.resources.dll
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.primaryLayout.resources
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\BatteryAlarm.primaryLayout.si-LK.resources
+C:\Users\Lakmal D\source\repos\BatteryAlarm\BatteryAlarm\obj\Debug\si-LK\BatteryAlarm.resources.dll
