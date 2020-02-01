@@ -1,4 +1,10 @@
-﻿namespace BatteryAlarm
+﻿using System.Reflection.Emit;
+using System.Web.UI.MobileControls;
+using System.Web.UI.WebControls;
+using System.Windows.Controls;
+using System.Windows.Forms;
+
+namespace BatteryAlarm
 {
     partial class primaryLayout
     {
@@ -245,5 +251,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
     }
+
+    
 }
 
